@@ -1,6 +1,6 @@
 <?php
 
-namespace VitoDeploy\LaravelReverbPlugin;
+namespace App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin\Actions;
 
 use App\Actions\Worker\DeleteWorker;
 use App\DTOs\DynamicField;
