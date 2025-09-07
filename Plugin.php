@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin;
+namespace App\Vito\Plugins\Vitodeploy\LaravelReverbPlugin;
 
 use App\DTOs\DynamicField;
 use App\DTOs\DynamicForm;
@@ -9,9 +9,9 @@ use App\Plugins\RegisterSiteFeature;
 use App\Plugins\RegisterSiteFeatureAction;
 use App\Plugins\RegisterSiteType;
 use App\Plugins\RegisterViews;
-use App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin\Actions\Disable;
-use App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin\Actions\Enable;
-use App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin\SiteTypes\LaravelReverb;
+use App\Vito\Plugins\Vitodeploy\LaravelReverbPlugin\Actions\Disable;
+use App\Vito\Plugins\Vitodeploy\LaravelReverbPlugin\Actions\Enable;
+use App\Vito\Plugins\Vitodeploy\LaravelReverbPlugin\SiteTypes\LaravelReverb;
 
 class Plugin extends AbstractPlugin
 {

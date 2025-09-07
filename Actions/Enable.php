@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Vito\Plugins\RichardAnderson\LaravelReverbPlugin\Actions;
+namespace App\Vito\Plugins\Vitodeploy\LaravelReverbPlugin\Actions;
 
 use App\Actions\Worker\CreateWorker;
 use App\Actions\Worker\ManageWorker;
